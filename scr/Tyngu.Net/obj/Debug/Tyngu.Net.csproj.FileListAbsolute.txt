@@ -1,0 +1,7 @@
+c:\adoora\Tyngu.Net\obj\Debug\Tyngu.Net.csprojResolveAssemblyReference.cache
+c:\adoora\Tyngu.Net\bin\Debug\Tyngu.Net.dll
+c:\adoora\Tyngu.Net\bin\Debug\Tyngu.Net.pdb
+c:\adoora\Tyngu.Net\bin\Debug\Newtonsoft.Json.dll
+c:\adoora\Tyngu.Net\bin\Debug\Newtonsoft.Json.xml
+c:\adoora\Tyngu.Net\obj\Debug\Tyngu.Net.dll
+c:\adoora\Tyngu.Net\obj\Debug\Tyngu.Net.pdb
