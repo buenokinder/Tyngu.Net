@@ -15,7 +15,7 @@ namespace Tyngu.Net.Core
         private readonly string ApiToken;
         private readonly string ApiKey;
         private readonly Uri ApiUri;
-        private const string UserAgent = "Moip.NET.v0.0.1";
+        private const string UserAgent = "Tyngu.NET.v0.0.1";
         private readonly Encoding encoding = Encoding.UTF8;
         #endregion
 
