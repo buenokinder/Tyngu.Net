@@ -13,8 +13,6 @@ No momento temos apenas o modelo TynguAccount, que server para trabalhar com sua
 
  ```csharp
 
-;
-
 public TynguExample()
 {
  
